@@ -1,6 +1,6 @@
 ---
 title: "API : La propriété css"
-description: Nuxt.js vous permet de définir le fichier, la bibliothèque ou le module CSS que vous souhaiter définir globalement (inclue sur toutes les pages).
+description: Nuxt.js vous permet de définir le fichier, la bibliothèque ou le module CSS que vous souhaitez définir globalement (inclue sur toutes les pages).
 ---
 
 # La propriété css
@@ -16,7 +16,7 @@ npm install --save-dev node-sass sass-loader
 - Type : `Array`
  - Éléments : `string`
 
-Dans `nuxt.config.js`, ajouter les ressources CSS :
+Dans le fichier `nuxt.config.js`, ajoutez les ressources CSS :
 
 ```js
 module.exports = {
